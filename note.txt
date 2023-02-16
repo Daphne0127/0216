@@ -1,0 +1,5 @@
+variable分成wire type, register type
+assign左邊只能是wire 
+Initial, always左邊只能是reg
+always是像loop 可以重複執行
+initial只能跑一次 一份code可以有很多個initial block 沒有順序性 
